@@ -1,6 +1,6 @@
 # Comparativo Dahua Mayoristas
 
-Dashboard semanal de precios Dahua por cuenta en CT Internacional y TVC (USD sin IVA).
+Dashboard semanal de precios Dahua por cuenta en CT Internacional y TVC (USD sin IVA), en español e inglés.
 
-Los datos van cifrados dentro de `index.html`; la página pide una clave y los descifra en el navegador.
-Se actualiza cada semana desde la rutina del comparativo.
+Página abierta, sin clave. Las cuentas aparecen solo por alias (CT-1, TVC-1…). No se indexa en buscadores (`robots.txt` y `noindex`).
+Se actualiza cada lunes desde la rutina del comparativo.
